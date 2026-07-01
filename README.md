@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah (@hanbeecodes)
 - 👀 I’m interested in taking on a career in tech
-- 🌱 I’m currently learning Python using Scrimba and am embarking on their Front End Developer Career path and their AI Engineer Path course. 
+- 🌱 I recently completed the Scrimba Front End Developer Career Path.
 - 💞️ I’m looking to collaborate on anything that will make me a better coder!
 
 <!---
